@@ -1,7 +1,7 @@
 # Exno:1
 # Data Cleaning Process
 ## NAME : L TOM FRANCIES XAVIOUR 
-## Reg.No: 21222311060
+## Reg.No: 212223110060
 # AIM
 To read the given data and perform data cleaning and save the cleaned data to a file.
 
